@@ -1,0 +1,7 @@
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Salary Compare Final\Salary Compare Final\bin\Debug\Salary Compare Final.exe.config
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Salary Compare Final\Salary Compare Final\bin\Debug\Salary Compare Final.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Salary Compare Final\Salary Compare Final\bin\Debug\Salary Compare Final.pdb
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Salary Compare Final\Salary Compare Final\obj\Debug\Salary Compare Final.csproj.AssemblyReference.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Salary Compare Final\Salary Compare Final\obj\Debug\Salary Compare Final.csproj.CoreCompileInputs.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Salary Compare Final\Salary Compare Final\obj\Debug\Salary Compare Final.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Salary Compare Final\Salary Compare Final\obj\Debug\Salary Compare Final.pdb
