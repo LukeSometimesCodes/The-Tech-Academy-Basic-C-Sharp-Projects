@@ -1,7 +1,0 @@
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic Program\Boolean Logic Program\bin\Debug\Boolean Logic Program.exe.config
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic Program\Boolean Logic Program\bin\Debug\Boolean Logic Program.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic Program\Boolean Logic Program\bin\Debug\Boolean Logic Program.pdb
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic Program\Boolean Logic Program\obj\Debug\Boolean Logic Program.csproj.AssemblyReference.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic Program\Boolean Logic Program\obj\Debug\Boolean Logic Program.csproj.CoreCompileInputs.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic Program\Boolean Logic Program\obj\Debug\Boolean Logic Program.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Boolean Logic Program\Boolean Logic Program\obj\Debug\Boolean Logic Program.pdb
