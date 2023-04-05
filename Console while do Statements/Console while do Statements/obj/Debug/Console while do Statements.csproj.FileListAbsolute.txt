@@ -1,0 +1,7 @@
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console while do Statements\Console while do Statements\bin\Debug\Console while do Statements.exe.config
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console while do Statements\Console while do Statements\bin\Debug\Console while do Statements.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console while do Statements\Console while do Statements\bin\Debug\Console while do Statements.pdb
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console while do Statements\Console while do Statements\obj\Debug\Console while do Statements.csproj.AssemblyReference.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console while do Statements\Console while do Statements\obj\Debug\Console while do Statements.csproj.CoreCompileInputs.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console while do Statements\Console while do Statements\obj\Debug\Console while do Statements.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console while do Statements\Console while do Statements\obj\Debug\Console while do Statements.pdb
