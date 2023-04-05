@@ -1,7 +1,0 @@
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Package Express Program\Package Express Program\bin\Debug\Package Express Program.exe.config
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Package Express Program\Package Express Program\bin\Debug\Package Express Program.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Package Express Program\Package Express Program\bin\Debug\Package Express Program.pdb
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Package Express Program\Package Express Program\obj\Debug\Package Express Program.csproj.AssemblyReference.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Package Express Program\Package Express Program\obj\Debug\Package Express Program.csproj.CoreCompileInputs.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Package Express Program\Package Express Program\obj\Debug\Package Express Program.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Package Express Program\Package Express Program\obj\Debug\Package Express Program.pdb
