@@ -1,7 +1,0 @@
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console App Series\Console App Series\bin\Debug\Console App Series.exe.config
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console App Series\Console App Series\bin\Debug\Console App Series.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console App Series\Console App Series\bin\Debug\Console App Series.pdb
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console App Series\Console App Series\obj\Debug\Console App Series.csproj.AssemblyReference.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console App Series\Console App Series\obj\Debug\Console App Series.csproj.CoreCompileInputs.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console App Series\Console App Series\obj\Debug\Console App Series.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Console App Series\Console App Series\obj\Debug\Console App Series.pdb
