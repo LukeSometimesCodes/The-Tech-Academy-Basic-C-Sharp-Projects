@@ -1,0 +1,7 @@
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Method Demonstration\Method Demonstration\bin\Debug\Method Demonstration.exe.config
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Method Demonstration\Method Demonstration\bin\Debug\Method Demonstration.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Method Demonstration\Method Demonstration\bin\Debug\Method Demonstration.pdb
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Method Demonstration\Method Demonstration\obj\Debug\Method Demonstration.csproj.AssemblyReference.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Method Demonstration\Method Demonstration\obj\Debug\Method Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Method Demonstration\Method Demonstration\obj\Debug\Method Demonstration.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Method Demonstration\Method Demonstration\obj\Debug\Method Demonstration.pdb
