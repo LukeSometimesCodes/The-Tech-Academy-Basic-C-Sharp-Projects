@@ -1,0 +1,7 @@
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Class Submission\Class Submission\bin\Debug\Class Submission.exe.config
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Class Submission\Class Submission\bin\Debug\Class Submission.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Class Submission\Class Submission\bin\Debug\Class Submission.pdb
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Class Submission\Class Submission\obj\Debug\Class Submission.csproj.AssemblyReference.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Class Submission\Class Submission\obj\Debug\Class Submission.csproj.CoreCompileInputs.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Class Submission\Class Submission\obj\Debug\Class Submission.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Class Submission\Class Submission\obj\Debug\Class Submission.pdb
