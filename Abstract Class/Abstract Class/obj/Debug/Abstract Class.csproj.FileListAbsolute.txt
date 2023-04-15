@@ -1,7 +1,0 @@
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe.config
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\bin\Debug\Abstract Class.pdb
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.csproj.AssemblyReference.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.pdb
