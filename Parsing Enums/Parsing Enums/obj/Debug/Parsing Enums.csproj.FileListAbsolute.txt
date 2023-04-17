@@ -1,7 +1,0 @@
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.csproj.AssemblyReference.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.csproj.CoreCompileInputs.cache
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Parsing Enums\Parsing Enums\bin\Debug\Parsing Enums.exe.config
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Parsing Enums\Parsing Enums\bin\Debug\Parsing Enums.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Parsing Enums\Parsing Enums\bin\Debug\Parsing Enums.pdb
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.exe
-C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.pdb
