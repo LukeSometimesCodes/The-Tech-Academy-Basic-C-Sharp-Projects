@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+          <h2 >This is my web assignment</h2>
+    @{
+        var isNow = DateTime.Now;
+     }
+    <p>The date and time now is: @isNow</p>
+    
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
