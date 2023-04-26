@@ -1,0 +1,12 @@
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\bin\Debug\Final Challenge.exe.config
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\bin\Debug\Final Challenge.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\bin\Debug\Final Challenge.pdb
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\bin\Debug\EntityFramework.dll
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\bin\Debug\EntityFramework.xml
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\obj\Debug\Final Challenge.csproj.AssemblyReference.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\obj\Debug\Final Challenge.csproj.CoreCompileInputs.cache
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\obj\Debug\Final Challenge.csproj.CopyComplete
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\obj\Debug\Final Challenge.exe
+C:\Users\lukem\OneDrive\Desktop\Basic_C#_Programs\Final Challenge\Final Challenge\obj\Debug\Final Challenge.pdb
